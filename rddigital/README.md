@@ -1,16 +1,37 @@
-# React + Vite
+# OSDigital
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern, responsive web application built with HTML, CSS, and JavaScript.
 
-Currently, two official plugins are available:
+🌐 **Live Demo**: [https://odsr-digital.vercel.app/])
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## React Compiler
+OSDigital is a clean and lightweight frontend project focused on delivering a smooth user experience.  
+Currently deployed on Vercel for fast, automatic previews and production hosting.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Structure
+```
+osdigital/
+├── rddigital/          # Main source folder (pages, assets, components, etc.)
+├── package.json        # Project metadata & scripts
+├── package-lock.json   # Dependency lockfile
+└── README.md
+text
+```
+
+> Most of the actual application code lives inside the `rddigital/` directory.
+
+## Getting Started
+
+### 1. Clone the repository
+
+``bash
+git clone https://github.com/oliyadkedir167-crypto/osdigital.git
+cd rddigital
+npm install
+```
+```bash
+npm run dev
+``
