@@ -27,11 +27,11 @@ text
 
 ### 1. Clone the repository
 
-```bash
+``bash
 git clone https://github.com/oliyadkedir167-crypto/osdigital.git
 cd rddigital
 npm install
 ```
 ```bash
 npm run dev
-```
+``
