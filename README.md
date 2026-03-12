@@ -9,12 +9,7 @@ Modern, responsive web application built with HTML, CSS, and JavaScript.
 OSDigital is a clean and lightweight frontend project focused on delivering a smooth user experience.  
 Currently deployed on Vercel for fast, automatic previews and production hosting.
 
-## Tech Stack
 
-- **HTML5**
-- **CSS3** (with modern layout techniques)
-- **JavaScript** (vanilla or lightweight scripting)
-- **Vercel** (hosting & deployment)
 
 ## Project Structure
 ```
