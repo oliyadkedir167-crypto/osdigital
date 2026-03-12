@@ -2,7 +2,7 @@
 
 Modern, responsive web application built with HTML, CSS, and JavaScript.
 
-🌐 **Live Demo**: [https://osdigital.vercel.app](https://osdigital.vercel.app)
+🌐 **Live Demo**: [https://odsr-digital.vercel.app/])
 
 ## Overview
 
